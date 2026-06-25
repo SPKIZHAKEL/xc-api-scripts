@@ -1,6 +1,6 @@
 # dns-record-resolution-check.py
 
-Bulk DNS validation tool for F5 XC nameservers. Reads expected DNS records from Excel, queries both `ns1.f5clouddns.com` and `ns2.f5clouddns.com` via `dig`, and writes pass/fail results back to an output spreadsheet.
+Bulk DNS validation tool for F5 XC nameserver. Reads expected DNS records from Excel, queries both `ns1.f5clouddns.com` and `ns2.f5clouddns.com` via `dig`, and writes pass/fail results back to an output spreadsheet.
 
 ## Prerequisites
 
